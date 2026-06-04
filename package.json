@@ -1,0 +1,11 @@
+{
+  "name": "e7dle",
+  "version": "1.0.0",
+  "description": "Wordle-style guessing game for Epic Seven",
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "devDependencies": {
+    "puppeteer": "*"
+  }
+}
