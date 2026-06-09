@@ -1,6 +1,6 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-05-29T09:48:25.790Z
+// Generado: 2026-06-09T06:46:27.387Z
 // Total héroes: 382
 
 const CHARACTERS_UNIQUE = [
@@ -3418,8 +3418,8 @@ const CHARACTERS_UNIQUE = [
   {
     "name": "Aubade Ludwig",
     "element": "Ice",
-    "role": "Mage",
-    "zodiac": "Leo",
+    "role": "Ranger",
+    "zodiac": "Capricorn",
     "gender": "Male",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c5069_l.png"
