@@ -1,7 +1,7 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-07-13T12:14:57.850Z
-// Total héroes: 382
+// Generado: 2026-07-20T11:53:07.284Z
+// Total héroes: 384
 
 const CHARACTERS_UNIQUE = [
   {
@@ -3441,6 +3441,24 @@ const CHARACTERS_UNIQUE = [
     "gender": "Male",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c6023_l.png"
+  },
+  {
+    "name": "Aube",
+    "element": "Ice",
+    "role": "Ranger",
+    "zodiac": "Pisces",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c5190_l.png"
+  },
+  {
+    "name": "Tidal Rift Elvira",
+    "element": "Dark",
+    "role": "Mage",
+    "zodiac": "Sagittarius",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c2148_l.png"
   }
 ];
 
