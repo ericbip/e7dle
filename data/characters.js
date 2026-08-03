@@ -1,6 +1,6 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-07-27T12:33:13.781Z
+// Generado: 2026-08-03T12:33:17.653Z
 // Total héroes: 384
 
 const CHARACTERS_UNIQUE = [
