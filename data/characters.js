@@ -1,7 +1,7 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-08-24T09:55:43.832Z
-// Total héroes: 384
+// Generado: 2026-08-31T17:00:40.955Z
+// Total héroes: 386
 
 const CHARACTERS_UNIQUE = [
   {
@@ -3459,6 +3459,24 @@ const CHARACTERS_UNIQUE = [
     "gender": "Female",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c2148_l.png"
+  },
+  {
+    "name": "Uncharted Pioneer Politis",
+    "element": "Ice",
+    "role": "Ranger",
+    "zodiac": "Pisces",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/temp_uppoli_l.png"
+  },
+  {
+    "name": "Lisette",
+    "element": "Light",
+    "role": "Soul Weaver",
+    "zodiac": "Libra",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/temp_lisette_l.png"
   }
 ];
 
