@@ -1,6 +1,6 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-08-31T17:00:40.955Z
+// Generado: 2026-09-07T14:59:23.245Z
 // Total héroes: 386
 
 const CHARACTERS_UNIQUE = [
@@ -3467,7 +3467,7 @@ const CHARACTERS_UNIQUE = [
     "zodiac": "Pisces",
     "gender": "Female",
     "rarity": "5★",
-    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/temp_uppoli_l.png"
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c5112_l.png"
   },
   {
     "name": "Lisette",
@@ -3476,7 +3476,7 @@ const CHARACTERS_UNIQUE = [
     "zodiac": "Libra",
     "gender": "Female",
     "rarity": "5★",
-    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/temp_lisette_l.png"
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c2186_l.png"
   }
 ];
 
