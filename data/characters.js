@@ -1,7 +1,7 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-09-07T14:59:23.245Z
-// Total héroes: 386
+// Generado: 2026-09-14T15:50:56.446Z
+// Total héroes: 387
 
 const CHARACTERS_UNIQUE = [
   {
@@ -3477,6 +3477,15 @@ const CHARACTERS_UNIQUE = [
     "gender": "Female",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c2186_l.png"
+  },
+  {
+    "name": "Haru",
+    "element": "Ice",
+    "role": "Warrior",
+    "zodiac": "Capricorn",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/ctemp_haru_l.png"
   }
 ];
 
