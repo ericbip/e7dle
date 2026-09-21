@@ -1,6 +1,6 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-09-14T15:50:56.446Z
+// Generado: 2026-09-21T15:50:54.856Z
 // Total héroes: 387
 
 const CHARACTERS_UNIQUE = [
@@ -3485,7 +3485,7 @@ const CHARACTERS_UNIQUE = [
     "zodiac": "Capricorn",
     "gender": "Female",
     "rarity": "5★",
-    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/ctemp_haru_l.png"
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c1192_l.png"
   }
 ];
 
