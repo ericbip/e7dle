@@ -1,7 +1,7 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-09-21T15:50:54.856Z
-// Total héroes: 387
+// Generado: 2026-09-28T17:35:01.738Z
+// Total héroes: 388
 
 const CHARACTERS_UNIQUE = [
   {
@@ -3477,6 +3477,15 @@ const CHARACTERS_UNIQUE = [
     "gender": "Female",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c2186_l.png"
+  },
+  {
+    "name": "Renoa",
+    "element": "Dark",
+    "role": "Ranger",
+    "zodiac": "Aquarius",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c1193_l.png"
   },
   {
     "name": "Haru",
