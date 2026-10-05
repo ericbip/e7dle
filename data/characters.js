@@ -1,7 +1,7 @@
 // E7dle Character Data
 // Fuente: https://github.com/CeciliaBot/CeciliaBot.github.io
-// Generado: 2026-09-28T17:35:01.738Z
-// Total héroes: 388
+// Generado: 2026-10-05T18:17:45.988Z
+// Total héroes: 389
 
 const CHARACTERS_UNIQUE = [
   {
@@ -3495,6 +3495,15 @@ const CHARACTERS_UNIQUE = [
     "gender": "Female",
     "rarity": "5★",
     "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c1192_l.png"
+  },
+  {
+    "name": "Mei Lin",
+    "element": "Fire",
+    "role": "Thief",
+    "zodiac": "Libra",
+    "gender": "Female",
+    "rarity": "5★",
+    "portrait": "https://raw.githubusercontent.com/CeciliaBot/E7Assets-Temp/main/assets/face/c1191_l.png"
   }
 ];
 
